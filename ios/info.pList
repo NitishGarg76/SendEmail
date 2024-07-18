@@ -1,0 +1,14 @@
+<dict>
+   //other code dependencies
+<key>LSApplicationQueriesSchemes</key>
+
+   <array>
+
+       <string>googlegmail</string>
+
+       <string>ms-outlook</string>
+       <!-- Add other schemes your app needs to query here -->
+
+   </array>
+   //other code dependencies
+   </dict>
